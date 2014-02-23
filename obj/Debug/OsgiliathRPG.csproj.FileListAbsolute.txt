@@ -1,0 +1,17 @@
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\bin\Debug\OsgiliathRPG.exe.config
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\bin\Debug\OsgiliathRPG.exe
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\bin\Debug\OsgiliathRPG.pdb
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\obj\Debug\OsgiliathRPG.Form1.resources
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\obj\Debug\OsgiliathRPG.Properties.Resources.resources
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\obj\Debug\OsgiliathRPG.csproj.GenerateResource.Cache
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\obj\Debug\OsgiliathRPG.exe
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\obj\Debug\OsgiliathRPG.pdb
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\bin\Debug\RPGlibrary.dll
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\bin\Debug\RPGlibrary.pdb
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\obj\Debug\OsgiliathRPG.csprojResolveAssemblyReference.cache
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\obj\Debug\OsgiliathRPG.CharacterSelect.resources
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\obj\Debug\OsgiliathRPG.Game.resources
+\\VBOXSVR\share\visualworkspace\OsgiliathRPG\OsgiliathRPG\obj\Debug\OsgiliathRPG.Enemy.resources
+C:\sync\workspace\Dev\csharp\OsgiliathRPG\OsgiliathRPG\bin\Debug\OsgiliathRPG.exe.config
+C:\sync\workspace\Dev\csharp\OsgiliathRPG\OsgiliathRPG\obj\Debug\OsgiliathRPG.exe
+C:\sync\workspace\Dev\csharp\OsgiliathRPG\OsgiliathRPG\obj\Debug\OsgiliathRPG.pdb
